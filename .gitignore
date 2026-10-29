@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+pr02/data/
+pr04/numbers.txt
+.DS_Store
